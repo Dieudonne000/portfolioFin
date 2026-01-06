@@ -34,7 +34,7 @@ export default function AboutPreview() {
           >
             <h2 className="text-3xl md:text-4xl font-bold mb-6">About Me</h2>
             <p className="text-black/70 dark:text-white/70 mb-4">
-              I'm Dieudonne, a multidisciplinary creator with 3+ years of experience in 3D design, web development, and programming. My work spans immersive digital experiences, interactive web applications, and visually stunning 3D assets. I thrive at the intersection of art and technology, using tools like React, Next.js, Blender, Node.js, and more to bring ideas to life.
+              I'm Dieudonne, a multidisciplinary creator with 5+ years of experience in 3D design, web development, and programming. My work spans immersive digital experiences, interactive web applications, and visually stunning 3D assets. I thrive at the intersection of art and technology, using tools like React, Next.js, Blender, Node.js, and more to bring ideas to life.
             </p>
             <p className="text-black/70 dark:text-white/70 mb-6">
               My philosophy is to blend technical precision with creative expression—whether I'm building a web app, designing a 3D environment, or developing a new feature. I love solving problems and telling stories through both code and design.
@@ -47,7 +47,7 @@ export default function AboutPreview() {
               </div>
               <div>
                 <h4 className="font-semibold mb-2">Experience</h4>
-                <p className="text-black/70 dark:text-white/70">3+ Years</p>
+                <p className="text-black/70 dark:text-white/70">5+ Years</p>
               </div>
               <div>
                 <h4 className="font-semibold mb-2">Specialization</h4>
