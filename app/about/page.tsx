@@ -56,7 +56,7 @@ export default function AboutPage() {
                     <h4 className="text-sm uppercase tracking-wider text-black/50 dark:text-white/50 mb-1">
                       Experience
                     </h4>
-                    <p>3+ Years</p>
+                    <p>5+ Years</p>
                   </div>
                 </div>
               </div>
@@ -65,7 +65,7 @@ export default function AboutPage() {
             <div>
               <h2 className="text-3xl font-bold mb-6">My Story</h2>
               <p className="text-black/70 dark:text-white/70 mb-6">
-                I'm MUNEZA Jean Dieudonne, a creator passionate about both 3D design and web development. My journey began over 2 years ago, exploring how digital art, interactive web applications, and programming can come together to build immersive experiences. From detailed 3D models to full-stack web apps, I love working at the intersection of creativity and technology.
+                I'm MUNEZA Jean Dieudonne, a creator passionate about both 3D design and web development. My journey began over 4 years ago, exploring how digital art, interactive web applications, and programming can come together to build immersive experiences. From detailed 3D models to full-stack web apps, I love working at the intersection of creativity and technology.
               </p>
               <p className="text-black/70 dark:text-white/70 mb-6">
                 After joining Rwanda Coding Academy, I honed my skills in software programming, embedded systems, and cybersecurity, while also working on a variety of 3D and web projects—including contributing to events like the 2024 Mashirika event.
