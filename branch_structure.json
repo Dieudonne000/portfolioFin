@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "main",
+    "origin",
+    "vercel/react-server-components-cve-vu-3i8pmq"
+  ],
+  "parent": {
+    "main": null,
+    "origin": "main",
+    "vercel/react-server-components-cve-vu-3i8pmq": "main"
+  },
+  "order": [
+    "main",
+    "origin",
+    "vercel/react-server-components-cve-vu-3i8pmq"
+  ]
+}
